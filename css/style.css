@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* il collasso dei margini avviene sempre su qualsiasi tipo di tag affiancato verticalmente*/
+
 #primo-div {
     border: solid 5px blue;
     height: 300px;
